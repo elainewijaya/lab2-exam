@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<exam>
+        <MultipleChoice question = "What colour is the sky? A: Blue  B: Red  C: Green  D: Black" 
+         answer = "A">
+         </MultipleChoice>
+        <MultipleChoice question = "What shape is an apple? A: Round  B: Long  C: Square  D: Cardioid" 
+         answer = "D">
+         </MultipleChoice>
+        <ShortAnswer question = "Is a cucumber a fruit or vegetable?" 
+         answer = "FRUIT">
+        </ShortAnswer>
+        <ShortAnswer question = "What colour are plants?" 
+         answer = "GREEN">
+        </ShortAnswer>
+        <TrueFalse question = "True or false: Are bananas yellow?" 
+         answer = "TRUE">
+         </TrueFalse>
+        <TrueFalse question = "True or false: Are bananas green?" 
+         answer = "TRUE">
+         </TrueFalse>
+</exam>
